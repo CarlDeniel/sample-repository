@@ -7,3 +7,6 @@ def A(m, n, s ="% s"):
     n2 = A(m, n - 1, s % ("A(% d, %% s)" % (m - 1)))
     return A(m - 1, n2, s)                 
 print (A(1,4))
+Laldncirn
+Xmldfknfnfldmd
+Slndjodennelwokddr
